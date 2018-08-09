@@ -1,4 +1,4 @@
 #The Last Of Us
-#Dark Souls
+#Souls
 #Chrono Trigger
 #SimCity
