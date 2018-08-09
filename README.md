@@ -1,5 +1,6 @@
 # devops-aula2
 
 #John Wayne
-#Eva Green
+#Jennifer Lawrence
 #Clint Eastwood
+#Gal Gadot
